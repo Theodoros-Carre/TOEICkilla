@@ -8,9 +8,9 @@ TOEICKilla is a Python-based translation tool that uses a **Binary Search Tree (
 - ✅ **Easy Word Management** – Add, update, and delete translations.  
 - ✅ **Data Persistence** – Save and load word pairs from a text file.  
 - ✅ **Efficient Search** – Uses BST for **logarithmic** search and insertion time.  
-- ✅ **Bulk Data Handling** – Supports large word lists (20,000+ words).  
+- ✅ **Bulk Data Handling** – Supports large word lists.
 - ✅ **User-Friendly Interface** – Console-based menu for easy navigation.  
-- ✅ *(Optional)* **Graphical Interface (GUI)** – Enhanced usability with PyQt.  
+
 
 ## ⚙️ Installation  
 ### 📥 Clone the repository  
