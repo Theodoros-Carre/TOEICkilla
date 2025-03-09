@@ -21,7 +21,7 @@ cd TOEICKilla
 
 ### 🔧 Install dependencies  
 ```sh
-pip install -r requirements.txt
+pip install PyQt5
 ```
 
 ## 🚀 Usage  
@@ -40,9 +40,7 @@ python main.py
 ```sh
 📂 TOEICKilla  
  ├── 📄 main.py      # Main program file  
- ├── 📄 bst.py       # Binary Search Tree implementation  
  ├── 📄 data.txt     # Sample word pairs  
- ├── 📄 gui.py       # (Optional) GUI implementation  
  ├── 📄 README.md    # Project documentation  
 ```
 
