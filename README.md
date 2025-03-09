@@ -39,8 +39,8 @@ python main.py
 ## 📂 File Structure  
 ```sh
 📂 TOEICKilla  
- ├── 📄 main.py      # Main program file  
- ├── 📄 data.txt     # Sample word pairs  
+ ├── 📄 pbl2_final.py      # Main program file  
+ ├── 📄 word.txt     # Sample word pairs  
  ├── 📄 README.md    # Project documentation  
 ```
 
