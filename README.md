@@ -45,7 +45,7 @@ python main.py
 ```
 
 ## 🔥 Future Improvements  
-- 🔹 Support for **homonyms & pronunciation**  
+- 🔹 Support for **pronunciation**  
 - 🔹 Integration with **speech recognition**  
 - 🔹 Expand dataset with **real-world vocabulary**  
 
